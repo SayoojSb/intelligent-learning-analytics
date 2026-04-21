@@ -1,6 +1,6 @@
 # 🎓 Intelligent Learning Analytics & AI Study Coach  
 
-🌐 **Live Application:** [intelligent-learning-analytics-jvggrzdjbteerctg7wx3o3.streamlit.app](https://intelligent-learning-analytics-jvggrzdjbteerctg7wx3o3.streamlit.app/)
+🌐 **Live Application:** [intelligent-learning-analytics-jvggrzdjbteerctg7wx3o3.streamlit.app](https://intelligent-learning-analytics.streamlit.app/)
 
 An **enterprise-grade, AI-powered educational intelligence system** that combines **data science, machine learning, and agentic AI workflows** to transform raw student data into actionable insights and personalized academic mentorship.
 
