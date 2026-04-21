@@ -210,7 +210,7 @@ Enables continuity and contextual understanding.
 - LangChain  
 
 ### 🧠 LLM
-- Google Gemini 3 Flash  
+- llama-3.3-70b-versatile 
 
 ### 📦 Vector Database
 - ChromaDB  
